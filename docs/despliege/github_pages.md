@@ -1,5 +1,3 @@
-### 📄 `docs/despliegue/github_pages.md`
-```markdown
 # Despliegue en GitHub Pages
 
 La documentación oficial de TaskFlow (construida con un generador de sitios estáticos) se aloja en GitHub Pages para ofrecer acceso público gratuito e integrado con el repositorio.
